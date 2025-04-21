@@ -1,0 +1,5 @@
+{
+  "name": "Close stale issues and PRs",
+  "description": "Closes stale issues and PRs after a period of inactivity.",
+  "iconName": "octicon-issue-closed"
+}
